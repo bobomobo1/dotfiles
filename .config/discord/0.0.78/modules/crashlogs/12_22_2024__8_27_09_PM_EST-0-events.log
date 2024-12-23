@@ -1,0 +1,13 @@
+12/22/2024, 8:27:09 PM EST 0: 
+
+----------------------------------------------
+12/22/2024, 8:27:09 PM EST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.78"}, modulepath: /home/ethan/.config/discord/0.0.78/modules
+12/22/2024, 8:27:09 PM EST 2: ✅ webContents.created web1 ""
+12/22/2024, 8:27:09 PM EST 3: ✅ window.created win1 "discord"
+12/22/2024, 8:27:09 PM EST 4: ✅ webContents.did-finish-load web1
+12/22/2024, 8:27:18 PM EST 5: ✅ webContents.created web2 ""
+12/22/2024, 8:27:18 PM EST 6: ✅ window.created win2 "Discord"
+12/22/2024, 8:27:22 PM EST 7: ✅ webContents.did-finish-load web2
+12/22/2024, 8:27:22 PM EST 8: window.close win1
+12/22/2024, 8:27:22 PM EST 9: webContents.destroyed web1
+12/22/2024, 8:27:22 PM EST 10: window.closed win1

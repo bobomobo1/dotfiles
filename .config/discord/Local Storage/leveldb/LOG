@@ -1,0 +1,9 @@
+2024/12/22-20:27:09.376 3c13e Reusing MANIFEST /home/ethan/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/12/22-20:27:09.379 3c13e Recovering log #859
+2024/12/22-20:27:09.380 3c13e Reusing old log /home/ethan/.config/discord/Local Storage/leveldb/000859.log 
+2024/12/22-20:28:19.248 3c13e Level-0 table #865: started
+2024/12/22-20:28:19.254 3c13e Level-0 table #865: 42039 bytes OK
+2024/12/22-20:28:19.260 3c13e Delete type=0 #859
+2024/12/22-20:31:41.193 3c13e Level-0 table #867: started
+2024/12/22-20:31:41.219 3c13e Level-0 table #867: 3309122 bytes OK
+2024/12/22-20:31:41.227 3c13e Delete type=0 #864
